@@ -8,3 +8,11 @@ The dataset which will be wrangled is the tweet archive of Twitter user @dog_rat
 # Software Needed
 
 - Need to be able to work in a Jupyter Notebook.
+- The following packages (libraries) need to be installed:
+    - pandas
+    - NumPy
+    - requests
+    - tweepy
+    - json
+    
+    
