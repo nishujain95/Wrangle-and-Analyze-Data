@@ -43,10 +43,10 @@ Udacity ran every image in the WeRateDogs Twitter archive through a neural netwo
 The tasks in this project are as follows:
 
 - Data wrangling, which consists of:
-- Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
-- Assessing data
-- Cleaning data
+  - Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
+  - Assessing data
+  - Cleaning data
 - Storing, analyzing, and visualizing your wrangled data
 - Reporting on
-- Data wrangling efforts
-- Data analyses and visualizations
+  - Data wrangling efforts
+  - Data analyses and visualizations
